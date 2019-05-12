@@ -1,0 +1,29 @@
+Datum in èas brisanja datotek: 
+17.3.2013
+19:45:35
+
+napaka pri brisanju datoteke cas.txt
+napaka pri brisanju datoteke dokpon.txt
+napaka pri brisanju datoteke doku.txt
+napaka pri brisanju datoteke prog.txt
+Datum in èas brisanja datotek: 
+17.3.2013
+23:48:44
+
+napaka pri brisanju datoteke cas.txt
+napaka pri brisanju datoteke doku.txt
+napaka pri brisanju datoteke prog.txt
+Datum in èas brisanja datotek: 
+12.5.2019
+23:57:44
+
+napaka pri brisanju datoteke cas.txt
+napaka pri brisanju datoteke doku.txt
+napaka pri brisanju datoteke prog.txt
+Datum in èas brisanja datotek: 
+12.5.2019
+23:58:53
+
+napaka pri brisanju datoteke cas.txt
+napaka pri brisanju datoteke doku.txt
+napaka pri brisanju datoteke prog.txt
